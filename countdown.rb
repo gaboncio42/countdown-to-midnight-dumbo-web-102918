@@ -1,7 +1,8 @@
 #write your code here
 
-number = 10
+counter = 10
 
-def countdown(number)
+def countdown(counter)
+  
   
 end
